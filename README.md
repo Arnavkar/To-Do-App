@@ -1,6 +1,7 @@
-# Tutorial app (tutorial)
+# To-do App
 
-A Quasar Framework app
+To-do App in Quasar (Tutorial-guided) 
+Todo: Finish Backend with Firebase
 
 ## Install the dependencies
 ```bash
